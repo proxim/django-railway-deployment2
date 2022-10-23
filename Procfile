@@ -1,1 +1,1 @@
-web: python manage.py migrate && gunicorn depoythis.wsgi
+web: python manage.py migrate && gunicorn deploythis.wsgi
